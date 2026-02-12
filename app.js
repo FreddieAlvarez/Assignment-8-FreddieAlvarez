@@ -152,7 +152,7 @@ if (typeof module !== 'undefined' && module.exports) {
         searchAlbums,
         sortAlbums,
         createAlbumCard,
-        updateStats
+        updateStats 
     };
 }
 
