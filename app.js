@@ -141,7 +141,7 @@ function attachEventListeners() {
     genreFilter.addEventListener('change', searchAlbums);
     sortBy.addEventListener('change', () => {
         sortAlbums();
-        renderAlbums(filteredAlbums);
+        renderAlbums(filteredAlbums);   
     });
 }
 
