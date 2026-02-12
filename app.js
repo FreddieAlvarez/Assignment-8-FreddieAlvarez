@@ -2,6 +2,8 @@
 let albums = [];
 let filteredAlbums = [];
 
+// test change
+
 // DOM Elements
 const albumGrid = document.getElementById('albumGrid');
 const searchInput = document.getElementById('searchInput');
